@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P47S2120222RRJA</string>
+    <string name="btn_suma">Suma</string>
+    <string name="btn_resta">Resta</string>
+    <string name="txt_titulo">Seleccione la operacion a realizar</string>
+    <string name="btn_regresar">Menu</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="txt_num1">Primer numero</string>
+    <string name="txt_num2">Segundo numero</string>
+    <string name="btn_calcular">Calcular</string>
+</resources>
